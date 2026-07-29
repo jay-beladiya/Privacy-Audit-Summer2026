@@ -48,9 +48,3 @@ https://docs.google.com/document/d/1FEEA_eQdG3lzHabbqj_6gCwncKOILqgijqlZqSSJhxE/
 
 ### Regulatory Compliance Matrix
 https://docs.google.com/spreadsheets/d/1NsFx4N91qvRg3DNnJfkr5O1v62WwfyGWUxoNq4tef2I/edit?usp=sharing
-
-## Course
-
-**DATA6550 – Data Ethics**
-
-This repository was created for the DATA6550 Digital Privacy Agreement Audit project.
