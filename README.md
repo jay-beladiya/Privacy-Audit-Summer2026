@@ -33,18 +33,6 @@ The analysis includes:
 - California Consumer Privacy Act / California Privacy Rights Act (CCPA/CPRA)
 - Virginia Consumer Data Protection Act (VCDPA)
 
-## Repository Structure
-
-```
-├── Individual Privacy Policy Analyses
-├── Regulatory Compliance Matrix
-├── Summary Matrices
-├── Final Comparison Matrix
-├── Discussion_1.md
-├── Discussion_2.md
-├── README.md
-```
-
 ## Project Deliverables
 
 - Privacy policy analyses for six organizations
